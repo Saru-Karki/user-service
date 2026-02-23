@@ -1,0 +1,16 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Dokotech PostgreSQL",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "userservicedb",
+      "Username": "dokoadmin",
+      "Password": "dokoadmin123",
+      "SSLMode": "prefer",
+      "PassFile": "/pgpass"
+    }
+  }
+}
+
